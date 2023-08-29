@@ -14,7 +14,7 @@
     background-color: lightgoldenrodyellow;
     position: sticky;
 }
-.start{
+#start{
  background-color: red;
  text-align: center;
  border-radius: 20px;
