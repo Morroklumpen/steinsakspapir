@@ -1,0 +1,44 @@
+
+
+.rules {
+    text-align: center;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: lightgoldenrodyellow;
+    margin: 5px;
+
+
+}
+.heading1{
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    position: sticky;
+}
+.start{
+ background-color: red;
+ text-align: center;
+ border-radius: 20px;
+ border-style: solid;
+ width: 20%;
+ margin: 5px;
+ 
+}
+
+.bilder{
+
+}
+
+#saks{
+    width: 15%;
+    margin: 5px;
+}
+
+#stein{
+    width: 15%;
+    margin: 5px;
+}
+
+#papir{
+    width: 15%;
+    margin: 5px;
+}
