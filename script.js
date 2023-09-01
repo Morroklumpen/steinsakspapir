@@ -1,5 +1,6 @@
 
 const start = document.getElementById("start");
+
 console.log(start);
 start.addEventListener("click", selveclick);
 

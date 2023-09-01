@@ -21,6 +21,7 @@
  border-style: solid;
  width: 20%;
  margin: 5px;
+ height: 3%;
  
 }
 
@@ -41,4 +42,20 @@
 #papir{
     width: 15%;
     margin: 5px;
+}
+
+#bilde1{
+    width: 15%;
+}
+
+#bilde2{
+    width: 15%;
+}
+
+#bilde3{
+    width: 15%;
+}
+
+#blurry{
+    width: 40%;
 }
